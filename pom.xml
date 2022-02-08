@@ -4,7 +4,7 @@
 
 	<groupId>cc.protea.foundation.http</groupId>
 	<artifactId>http</artifactId>
-	<version>0.3.0-SNAPSHOT</version>
+	<version>0.3.0</version>
 	<packaging>jar</packaging>
 
 	<name>http</name>
@@ -29,7 +29,7 @@
 		<url>https://github.com/hyperwallet/protea-http</url>
 		<connection>scm:git:git://github.com/hyperwallet/protea-http.git</connection>
 		<developerConnection>scm:git:git@github.com:hyperwallet/protea-http.git</developerConnection>
-	  <tag>http-0.3</tag>
+	  <tag>modified for HW needs</tag>
   </scm>
 
 	<developers>
