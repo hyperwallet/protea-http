@@ -4,16 +4,16 @@
 
 	<groupId>cc.protea.foundation.http</groupId>
 	<artifactId>http</artifactId>
-	<version>0.2.3</version>
+	<version>0.3.0</version>
 	<packaging>jar</packaging>
 
 	<name>http</name>
 	<description>Java SDK to make outbound HTTP connections simpler</description>
 
-	<url>https://github.com/rjstanford/protea-http</url>
+	<url>https://github.com/hyperwallet/protea-http</url>
 
 	<issueManagement>
-		<url>https://github.com/rjstanford/protea-http/issues</url>
+		<url>https://github.com/hyperwallet/protea-http/issues</url>
 		<system>GitHub Issues</system>
 	</issueManagement>
 
@@ -26,18 +26,18 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/rjstanford/protea-http</url>
-		<connection>scm:git:git://github.com/rjstanford/protea-http.git</connection>
-		<developerConnection>scm:git:git@github.com:rjstanford/protea-http.git</developerConnection>
-	  <tag>http-0.2</tag>
+		<url>https://github.com/hyperwallet/protea-http</url>
+		<connection>scm:git:git://github.com/hyperwallet/protea-http.git</connection>
+		<developerConnection>scm:git:git@github.com:hyperwallet/protea-http.git</developerConnection>
+	  <tag>modified for HW needs</tag>
   </scm>
 
 	<developers>
 		<developer>
-			<email>richard@richardstanford.com</email>
-			<name>Richard Stanford</name>
-			<url>https://github.com/rjstanford</url>
-			<id>rjstanford</id>
+			<email>hlahlou@paypal.com</email>
+			<name>Hakim Lahlou</name>
+			<url>https://github.com/hlahlou-pp-dev</url>
+			<id>hlahlou-pp-dev</id>
 		</developer>
 	</developers>
 
